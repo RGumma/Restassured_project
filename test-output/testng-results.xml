@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-11T23:16:25 CDT" name="Default suite" finished-at="2024-10-11T23:16:29 CDT" duration-ms="3961">
+    <groups>
+    </groups>
+    <test started-at="2024-10-11T23:16:25 CDT" name="Default test" finished-at="2024-10-11T23:16:29 CDT" duration-ms="3961">
+      <class name="restapi.Getuser">
+        <test-method signature="createUser()[pri:0, instance:restapi.Getuser@c8c12ac]" started-at="2024-10-11T23:16:25 CDT" name="createUser" finished-at="2024-10-11T23:16:29 CDT" duration-ms="3564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="getUser()[pri:0, instance:restapi.Getuser@c8c12ac]" started-at="2024-10-11T23:16:29 CDT" name="getUser" finished-at="2024-10-11T23:16:29 CDT" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- restapi.Getuser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
